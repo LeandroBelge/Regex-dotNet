@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Regex-dotNet/1.0.0": {
+        "runtime": {
+          "Regex-dotNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Regex-dotNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

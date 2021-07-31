@@ -1,0 +1,16 @@
+C:\Users\leand\Documents\Regex-dotNet\bin\Debug\net5.0\Regex-dotNet.exe
+C:\Users\leand\Documents\Regex-dotNet\bin\Debug\net5.0\Regex-dotNet.deps.json
+C:\Users\leand\Documents\Regex-dotNet\bin\Debug\net5.0\Regex-dotNet.runtimeconfig.json
+C:\Users\leand\Documents\Regex-dotNet\bin\Debug\net5.0\Regex-dotNet.runtimeconfig.dev.json
+C:\Users\leand\Documents\Regex-dotNet\bin\Debug\net5.0\Regex-dotNet.dll
+C:\Users\leand\Documents\Regex-dotNet\bin\Debug\net5.0\ref\Regex-dotNet.dll
+C:\Users\leand\Documents\Regex-dotNet\bin\Debug\net5.0\Regex-dotNet.pdb
+C:\Users\leand\Documents\Regex-dotNet\obj\Debug\net5.0\Regex-dotNet.csproj.AssemblyReference.cache
+C:\Users\leand\Documents\Regex-dotNet\obj\Debug\net5.0\Regex-dotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Documents\Regex-dotNet\obj\Debug\net5.0\Regex-dotNet.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\Regex-dotNet\obj\Debug\net5.0\Regex-dotNet.AssemblyInfo.cs
+C:\Users\leand\Documents\Regex-dotNet\obj\Debug\net5.0\Regex-dotNet.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\Regex-dotNet\obj\Debug\net5.0\Regex-dotNet.dll
+C:\Users\leand\Documents\Regex-dotNet\obj\Debug\net5.0\ref\Regex-dotNet.dll
+C:\Users\leand\Documents\Regex-dotNet\obj\Debug\net5.0\Regex-dotNet.pdb
+C:\Users\leand\Documents\Regex-dotNet\obj\Debug\net5.0\Regex-dotNet.genruntimeconfig.cache
